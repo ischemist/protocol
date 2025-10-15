@@ -1,6 +1,6 @@
 # the ischemist protocol
 
-[![isChemist Protocol v1.0.0](https://img.shields.io/badge/protocol-isChemist%20v1.0.0-blueviolet)](https://github.com/ischemist/protocol/blob/master/README.md)
+[![isChemist Protocol v1.0.0](https://img.shields.io/badge/protocol-isChemist%20v1.0.0-blueviolet)](https://github.com/ischemist/protocol)
 
 **version:** 1.0.0
 **last updated:** 2025-10-12
@@ -71,5 +71,5 @@ this principle defines the character of the agent. it is a framework for navigat
 projects adhering to this protocol should include the following badge in their `README.md`:
 
 ```markdown
-[![isChemist Protocol v1.0.0](https://img.shields.io/badge/protocol-isChemist%20v1.0.0-blueviolet)](https://github.com/ischemist/protocol/blob/master/README.md)
+[![isChemist Protocol v1.0.0](https://img.shields.io/badge/protocol-isChemist%20v1.0.0-blueviolet)](https://github.com/ischemist/protocol)
 ```
